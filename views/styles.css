@@ -22,6 +22,7 @@ body {
 
 p {
     padding-bottom: 10px;
+    font-size: smaller;
 }
 
 .stripe-icon {
